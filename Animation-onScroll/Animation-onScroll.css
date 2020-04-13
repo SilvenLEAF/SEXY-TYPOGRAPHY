@@ -3,3 +3,12 @@ body{
      padding: 0;
      box-sizing: border-box;
 }
+img{
+     width: 300px;
+
+}
+.img-p{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+}
