@@ -1,0 +1,22 @@
+body{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     background-color: #2ec194;
+     display: flex;
+     flex-flow: column;
+     align-items: center;
+     justify-content: center;
+}
+.box{
+     height: 200px;
+     width: 200px;
+     margin: 100px;
+     background-color: gold;
+}
+/* *********************
+.                    BOX1
+********************** */
+.box1{
+     box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.3);
+}
