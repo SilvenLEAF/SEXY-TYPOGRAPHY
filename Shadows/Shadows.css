@@ -101,3 +101,11 @@ body{
      filter: blur(5px);
      z-index: -1;
 }
+/* *********************
+.                    BOX6
+********************** */
+.box6{
+     background-color: #2ec194;
+     box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.1),
+                         -6px -6px 6px rgba(255,255,255, 0.2);
+}
