@@ -106,6 +106,18 @@ body{
 ********************** */
 .box6{
      background-color: #2ec194;
+     border-radius: 20px;
      box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.1),
                          -6px -6px 6px rgba(255,255,255, 0.2);
+}
+/* *********************
+.                    BOX7
+********************** */
+.box7{
+     background-color: #2ec194;
+     border-radius: 20px;
+     box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.1),
+                         -6px -6px 6px rgba(255,255,255, 0.2),
+                         inset 6px 6px 6px rgba(0, 0, 0, 0.1),
+                         inset -6px -6px 6px rgba(255,255,255, 0.2);
 }
