@@ -17,6 +17,8 @@ body{
 }
 /* *********************
 .                    BOX1
+formula: 
+BOX-SHADOW: x y b c(0.3)
 ********************** */
 .box1{
      box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.3);
