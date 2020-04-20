@@ -128,6 +128,10 @@ BoxShadow: x  y  b  0.1(B)
 }
 /* *********************
 .                    BOX7
+formula:
+BG === Body
+BoxShadow:       Box6
+           inset Box6
 ********************** */
 .box7{
      background-color: #2ec194;
