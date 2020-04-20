@@ -25,6 +25,9 @@ BOX-SHADOW: x y b c(0.3)
 }
 /* *********************
 .                    BOX2
+formula: BEFORE
+Transform-Origin: Opposite:
+SKEW-Y(5deg)
 ********************** */
 .box2::before{
      content: "";
