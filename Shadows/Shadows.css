@@ -78,6 +78,9 @@ formula: BEFORE + AFTER
 
 /* *********************
 .                    BOX4
+formula: BEFORE
+Bottom: -50px;
+H: 20px W: 90% Bradius: 50%
 ********************** */
 .box4::before{
      content: "";
