@@ -45,6 +45,7 @@ SKEW-Y(5deg)
 }
 /* *********************
 .                    BOX3
+formula: BEFORE + AFTER
 ********************** */
 .box3::before{
      content: "";
