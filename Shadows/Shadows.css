@@ -115,6 +115,10 @@ H: 90% W: 90%
 }
 /* *********************
 .                    BOX6
+formula:
+BG === Body
+BoxShadow: x  y  b  0.1(B)
+          -x -y -b  0.2(W)
 ********************** */
 .box6{
      background-color: #2ec194;
